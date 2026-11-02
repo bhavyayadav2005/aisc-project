@@ -29,7 +29,7 @@ No build tools or external dependencies installation are required.
 
 Clone or download the repository:
 
-git clone https://github.com/your-username/Astra-3d.git
+git clone https://github.com/bhavyayadav2005/Astra-3d.git
 cd Astra-3d
 
 
